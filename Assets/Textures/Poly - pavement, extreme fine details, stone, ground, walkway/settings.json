@@ -1,0 +1,23 @@
+{
+  "prompt_text": "pavement, extreme fine details, stone, ground, walkway",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3-voronoi/textures/patches/508de14f-d42b-4d51-be19-dbf001dac72d.png",
+    "patch_id": "R2PD5VouUs"
+  },
+  "seamless_prompt_text": "pavement, extreme fine details, stone, ground, walkway",
+  "seamless_patch_scale": 0.8,
+  "upscale_prompt_text": "pavement, extreme fine details, stone, ground, walkway",
+  "upscale_resolution": 4096,
+  "is_seamless": true,
+  "pbr_mode": "organic",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": false
+}

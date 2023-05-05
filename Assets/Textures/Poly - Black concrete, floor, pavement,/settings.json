@@ -1,0 +1,23 @@
+{
+  "prompt_text": "Black concrete, floor, pavement,",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3/textures/patches/86e28860-f389-4f48-abbe-7652c61cf6c2.png",
+    "patch_id": "AifyhFdwdR"
+  },
+  "seamless_prompt_text": "Black concrete, floor, pavement,",
+  "seamless_patch_scale": 0.93,
+  "upscale_prompt_text": "Black concrete, floor, pavement,",
+  "upscale_resolution": 2048,
+  "is_seamless": true,
+  "pbr_mode": "general",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": false
+}

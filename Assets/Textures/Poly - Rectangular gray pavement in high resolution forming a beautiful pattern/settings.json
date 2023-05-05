@@ -1,0 +1,23 @@
+{
+  "prompt_text": "Rectangular gray pavement in high resolution forming a beautiful pattern",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3-voronoi/textures/patches/16436d48-d832-4a53-bb19-9595e87d574f.png",
+    "patch_id": "LdGNHH95pW"
+  },
+  "seamless_prompt_text": "Rectangular gray pavement in high resolution forming a beautiful pattern",
+  "seamless_patch_scale": 1.0,
+  "upscale_prompt_text": "Rectangular gray pavement in high resolution forming a beautiful pattern",
+  "upscale_resolution": 4096,
+  "is_seamless": true,
+  "pbr_mode": "matte",
+  "pbr_use_render_as_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": false
+}
